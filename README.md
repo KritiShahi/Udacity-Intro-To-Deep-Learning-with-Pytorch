@@ -5,11 +5,7 @@ This repository contains materials and exercises related to Udacity Bertelsmann 
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - Comprehensive Jupyter Notebook tutorials.
